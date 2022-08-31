@@ -1,0 +1,40 @@
+C:\Users\thuyg\source\repos\HouseCleaningThuyGiangNguyen\HouseCleaningThuyGiangNguyen\bin\Debug\HouseCleaningThuyGiangNguyen.exe.config
+C:\Users\thuyg\source\repos\HouseCleaningThuyGiangNguyen\HouseCleaningThuyGiangNguyen\bin\Debug\HouseCleaningThuyGiangNguyen.exe
+C:\Users\thuyg\source\repos\HouseCleaningThuyGiangNguyen\HouseCleaningThuyGiangNguyen\bin\Debug\HouseCleaningThuyGiangNguyen.pdb
+C:\Users\thuyg\source\repos\HouseCleaningThuyGiangNguyen\HouseCleaningThuyGiangNguyen\obj\Debug\HouseCleaningThuyGiangNguyen.csproj.AssemblyReference.cache
+C:\Users\thuyg\source\repos\HouseCleaningThuyGiangNguyen\HouseCleaningThuyGiangNguyen\obj\Debug\HouseCleaningThuyGiangNguyen.csproj.SuggestedBindingRedirects.cache
+C:\Users\thuyg\source\repos\HouseCleaningThuyGiangNguyen\HouseCleaningThuyGiangNguyen\obj\Debug\MainWindow.g.cs
+C:\Users\thuyg\source\repos\HouseCleaningThuyGiangNguyen\HouseCleaningThuyGiangNguyen\obj\Debug\App.g.cs
+C:\Users\thuyg\source\repos\HouseCleaningThuyGiangNguyen\HouseCleaningThuyGiangNguyen\obj\Debug\HouseCleaningThuyGiangNguyen_MarkupCompile.cache
+C:\Users\thuyg\source\repos\HouseCleaningThuyGiangNguyen\HouseCleaningThuyGiangNguyen\obj\Debug\HouseCleaningThuyGiangNguyen_MarkupCompile.lref
+C:\Users\thuyg\source\repos\HouseCleaningThuyGiangNguyen\HouseCleaningThuyGiangNguyen\obj\Debug\MainWindow.baml
+C:\Users\thuyg\source\repos\HouseCleaningThuyGiangNguyen\HouseCleaningThuyGiangNguyen\obj\Debug\HouseCleaningThuyGiangNguyen.g.resources
+C:\Users\thuyg\source\repos\HouseCleaningThuyGiangNguyen\HouseCleaningThuyGiangNguyen\obj\Debug\HouseCleaningThuyGiangNguyen.Properties.Resources.resources
+C:\Users\thuyg\source\repos\HouseCleaningThuyGiangNguyen\HouseCleaningThuyGiangNguyen\obj\Debug\HouseCleaningThuyGiangNguyen.csproj.GenerateResource.cache
+C:\Users\thuyg\source\repos\HouseCleaningThuyGiangNguyen\HouseCleaningThuyGiangNguyen\obj\Debug\HouseCleaningThuyGiangNguyen.csproj.CoreCompileInputs.cache
+C:\Users\thuyg\source\repos\HouseCleaningThuyGiangNguyen\HouseCleaningThuyGiangNguyen\obj\Debug\HouseCleaningThuyGiangNguyen.exe
+C:\Users\thuyg\source\repos\HouseCleaningThuyGiangNguyen\HouseCleaningThuyGiangNguyen\obj\Debug\HouseCleaningThuyGiangNguyen.pdb
+C:\Users\thuyg\source\repos\HouseCleaningThuyGiangNguyen\HouseCleaningThuyGiangNguyen\obj\Debug\CustomerAppointmentList.g.cs
+C:\Users\thuyg\source\repos\HouseCleaningThuyGiangNguyen\HouseCleaningThuyGiangNguyen\obj\Debug\CustomerAppointmentList.baml
+C:\Users\thuyg\source\repos\HouseCleaningThuyGiangNguyen\HouseCleaningThuyGiangNguyen\obj\Debug\CustomerList.g.cs
+C:\Users\thuyg\source\repos\HouseCleaningThuyGiangNguyen\HouseCleaningThuyGiangNguyen\obj\Debug\CustomerList.baml
+C:\Giangnt\Others\Giang\Canada\College\8010\Final Exam\HouseCleaningThuyGiangNguyen\cleaningAppointment\HouseCleaningThuyGiangNguyen\bin\Debug\HouseCleaningThuyGiangNguyen.exe.config
+C:\Giangnt\Others\Giang\Canada\College\8010\Final Exam\HouseCleaningThuyGiangNguyen\cleaningAppointment\HouseCleaningThuyGiangNguyen\bin\Debug\HouseCleaningThuyGiangNguyen.exe
+C:\Giangnt\Others\Giang\Canada\College\8010\Final Exam\HouseCleaningThuyGiangNguyen\cleaningAppointment\HouseCleaningThuyGiangNguyen\bin\Debug\HouseCleaningThuyGiangNguyen.pdb
+C:\Giangnt\Others\Giang\Canada\College\8010\Final Exam\HouseCleaningThuyGiangNguyen\cleaningAppointment\HouseCleaningThuyGiangNguyen\obj\Debug\HouseCleaningThuyGiangNguyen.csproj.AssemblyReference.cache
+C:\Giangnt\Others\Giang\Canada\College\8010\Final Exam\HouseCleaningThuyGiangNguyen\cleaningAppointment\HouseCleaningThuyGiangNguyen\obj\Debug\HouseCleaningThuyGiangNguyen.csproj.SuggestedBindingRedirects.cache
+C:\Giangnt\Others\Giang\Canada\College\8010\Final Exam\HouseCleaningThuyGiangNguyen\cleaningAppointment\HouseCleaningThuyGiangNguyen\obj\Debug\CustomerAppointmentList.g.cs
+C:\Giangnt\Others\Giang\Canada\College\8010\Final Exam\HouseCleaningThuyGiangNguyen\cleaningAppointment\HouseCleaningThuyGiangNguyen\obj\Debug\CustomerList.g.cs
+C:\Giangnt\Others\Giang\Canada\College\8010\Final Exam\HouseCleaningThuyGiangNguyen\cleaningAppointment\HouseCleaningThuyGiangNguyen\obj\Debug\MainWindow.g.cs
+C:\Giangnt\Others\Giang\Canada\College\8010\Final Exam\HouseCleaningThuyGiangNguyen\cleaningAppointment\HouseCleaningThuyGiangNguyen\obj\Debug\App.g.cs
+C:\Giangnt\Others\Giang\Canada\College\8010\Final Exam\HouseCleaningThuyGiangNguyen\cleaningAppointment\HouseCleaningThuyGiangNguyen\obj\Debug\HouseCleaningThuyGiangNguyen_MarkupCompile.cache
+C:\Giangnt\Others\Giang\Canada\College\8010\Final Exam\HouseCleaningThuyGiangNguyen\cleaningAppointment\HouseCleaningThuyGiangNguyen\obj\Debug\HouseCleaningThuyGiangNguyen_MarkupCompile.lref
+C:\Giangnt\Others\Giang\Canada\College\8010\Final Exam\HouseCleaningThuyGiangNguyen\cleaningAppointment\HouseCleaningThuyGiangNguyen\obj\Debug\CustomerAppointmentList.baml
+C:\Giangnt\Others\Giang\Canada\College\8010\Final Exam\HouseCleaningThuyGiangNguyen\cleaningAppointment\HouseCleaningThuyGiangNguyen\obj\Debug\CustomerList.baml
+C:\Giangnt\Others\Giang\Canada\College\8010\Final Exam\HouseCleaningThuyGiangNguyen\cleaningAppointment\HouseCleaningThuyGiangNguyen\obj\Debug\MainWindow.baml
+C:\Giangnt\Others\Giang\Canada\College\8010\Final Exam\HouseCleaningThuyGiangNguyen\cleaningAppointment\HouseCleaningThuyGiangNguyen\obj\Debug\HouseCleaningThuyGiangNguyen.g.resources
+C:\Giangnt\Others\Giang\Canada\College\8010\Final Exam\HouseCleaningThuyGiangNguyen\cleaningAppointment\HouseCleaningThuyGiangNguyen\obj\Debug\HouseCleaningThuyGiangNguyen.Properties.Resources.resources
+C:\Giangnt\Others\Giang\Canada\College\8010\Final Exam\HouseCleaningThuyGiangNguyen\cleaningAppointment\HouseCleaningThuyGiangNguyen\obj\Debug\HouseCleaningThuyGiangNguyen.csproj.GenerateResource.cache
+C:\Giangnt\Others\Giang\Canada\College\8010\Final Exam\HouseCleaningThuyGiangNguyen\cleaningAppointment\HouseCleaningThuyGiangNguyen\obj\Debug\HouseCleaningThuyGiangNguyen.csproj.CoreCompileInputs.cache
+C:\Giangnt\Others\Giang\Canada\College\8010\Final Exam\HouseCleaningThuyGiangNguyen\cleaningAppointment\HouseCleaningThuyGiangNguyen\obj\Debug\HouseCleaningThuyGiangNguyen.exe
+C:\Giangnt\Others\Giang\Canada\College\8010\Final Exam\HouseCleaningThuyGiangNguyen\cleaningAppointment\HouseCleaningThuyGiangNguyen\obj\Debug\HouseCleaningThuyGiangNguyen.pdb

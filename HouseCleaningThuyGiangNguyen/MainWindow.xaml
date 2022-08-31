@@ -1,0 +1,97 @@
+﻿<!--Thuy Giang Nguyen-->
+    <Window x:Class="HouseCleaningThuyGiangNguyen.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HouseCleaningThuyGiangNguyen"
+        mc:Ignorable="d"
+        Title="Customer Appointment Entry" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Viewbox HorizontalAlignment="Left">
+            <CheckBox Name="IsNew" Grid.Row="0" Grid.Column="0" Margin="5"                      
+                      VerticalContentAlignment="Center" Checked="IsNew_Checked" Unchecked="IsNew_Checked">Existing Customer?</CheckBox>
+        </Viewbox>
+        <Button Name="ChooseCustomer" Grid.Row="0" Grid.Column="1" FontSize="20" Margin="5"
+               HorizontalContentAlignment="Center" VerticalContentAlignment="Center"
+               IsEnabled="False"
+               Click="ChooseCustomer_Click">Choose Customer</Button>
+
+        <Label Grid.Row="1" Grid.Column="0" FontSize="15" Margin="5"
+               VerticalContentAlignment="Center">Customer ID</Label>
+        <TextBox Name="CustomerID" Grid.Row="1" Grid.Column="1" FontSize="15" Margin="5"
+               VerticalContentAlignment="Center" IsEnabled="False"
+                 Text="{Binding CustomerID}"></TextBox>
+
+        <Label Grid.Row="2" Grid.Column="0" FontSize="15" Margin="5"
+               VerticalContentAlignment="Center">Customer Name</Label>
+        <TextBox Name="Name" Grid.Row="2" Grid.Column="1" FontSize="15" Margin="5"
+               VerticalContentAlignment="Center"
+                 Text="{Binding Name}"></TextBox>
+
+        <Label Grid.Row="3" Grid.Column="0" FontSize="15" Margin="5"
+               VerticalContentAlignment="Center">Postal Code</Label>
+        <TextBox Name="PostalCode" Grid.Row="3" Grid.Column="1" FontSize="15" Margin="5"
+               VerticalContentAlignment="Center"
+                 Text="{Binding PostalCode}"></TextBox>
+
+        <Label Grid.Row="4" Grid.Column="0" FontSize="15" Margin="5"
+               VerticalContentAlignment="Center">Phone</Label>
+        <TextBox Name="Phone" Grid.Row="4" Grid.Column="1" FontSize="15" Margin="5"
+               VerticalContentAlignment="Center"
+                 Text="{Binding Phone}"></TextBox>
+
+        <Label Grid.Row="5" Grid.Column="0" FontSize="15" Margin="5"
+               VerticalContentAlignment="Center">Appointment ID</Label>
+        <TextBox Name="AppointmentID" Grid.Row="5" Grid.Column="1" FontSize="15" Margin="5"
+               VerticalContentAlignment="Center" IsEnabled="False"
+                 Text="{Binding AppointmentID}"></TextBox>
+        
+        <Label Grid.Row="6" Grid.Column="0" FontSize="15" Margin="5"
+               VerticalContentAlignment="Center">Service Date</Label>
+        <TextBox Name="ServiceDate" Grid.Row="6" Grid.Column="1" FontSize="15" Margin="5"
+               VerticalContentAlignment="Center"
+                 Text="{Binding ServiceDate}"></TextBox>
+
+        <Label Grid.Row="7" Grid.Column="0" FontSize="15" Margin="5"
+               VerticalContentAlignment="Center">House Size</Label>
+        <TextBox Name="HouseSize" Grid.Row="7" Grid.Column="1" FontSize="15" Margin="5"
+               VerticalContentAlignment="Center"
+                 Text="{Binding HouseSize}"></TextBox>
+
+        <Label Grid.Row="8" Grid.Column="0" FontSize="15" Margin="5"
+               VerticalContentAlignment="Center">Cleaner Type</Label>
+        <ComboBox Name="CleanerType" Grid.Row="8" Grid.Column="1" Margin="5" FontSize="15"
+               VerticalContentAlignment="Center" ItemsSource="{Binding CleanerTypeList}"               
+               DisplayMemberPath="Description" SelectedValue="{Binding ThisCleanerType}">            
+        </ComboBox>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="9" Grid.Column="0" Grid.ColumnSpan="2">
+        <Button Name="Add" FontSize="20" Margin="5" Width="150"
+               HorizontalContentAlignment="Center" VerticalContentAlignment="Center"
+               Click="Add_Click">Add</Button>
+        <Button Name="Clear" FontSize="20" Margin="5" Width="150"
+               HorizontalContentAlignment="Center" VerticalContentAlignment="Center"
+               Click="Clear_Click">Clear</Button>
+        <Button Name="ViewList" FontSize="20" Margin="5" Width="150"
+                HorizontalContentAlignment="Center" VerticalContentAlignment="Center"
+                Click="ViewList_Click">View List</Button>
+        </StackPanel>
+    </Grid>
+</Window>
